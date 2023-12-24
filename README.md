@@ -9,5 +9,5 @@ Class: L5AC
 2.	William Jonathan Mulyadi 2502045683
 
 ## External Links:
-1. [Video Documentation](https://www.ebi.ac.uk/Tools/msa/muscle/)
+1. [Final Report](https://docs.google.com/document/d/1HdJYnLr0pcaK3_dmM7nrazA9XFQxkdvXkuwNONDwjgk/edit?usp=sharing)
 2. [Presentation](https://www.canva.com/design/DAF24SZOGOg/o9G3b1ljPQYYyLODcRFMuw/edit?utm_content=DAF24SZOGOg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
